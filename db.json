@@ -1,6 +1,7 @@
 {
   "posts": [
     { 
+      "id": "2",
       "name": "Asset Name",
       "description": "Lorem ipsum...",
       "image": "https:\/\/s3.amazonaws.com\/your-bucket\/images\/{id}.png",
