@@ -1,6 +1,29 @@
 {
   "posts": [
-    { "id": "1", "title": "a title", "views": 100 },
+    { "id": "1",
+      "name": "Asset Name",
+      "description": "Lorem ipsum...",
+      "image": "https:\/\/s3.amazonaws.com\/your-bucket\/images\/{id}.png",
+      "properties": {
+        "simple_property": "example value",
+        "rich_property": {
+          "name": "Name",
+          "value": "123",
+          "display_value": "123 Example Value",
+          "class": "emphasis",
+          "css": {
+            "color": "#ffffff",
+            "font-weight": "bold",
+            "text-decoration": "underline"
+          }
+        },
+        "array_property": {
+          "name": "Name",
+          "value": [1,2,3,4],
+          "class": "emphasis"
+        }
+      }
+    },
     { "id": "2", "title": "another title", "views": 200 }
   ],
   "comments": [
