@@ -4,7 +4,7 @@
       "id": "1",
       "name": "Asset Name",
       "description": "Lorem ipsum...",
-      "image": "https:\/\/s3.amazonaws.com\/your-bucket\/images\/{id}.png",
+      "image": "https:\/\/github.com\/vammatanda\/typicode-sample\/blob\/main\/src\/files\/minions.png",
       "properties": {
         "simple_property": "example value",
         "rich_property": {
