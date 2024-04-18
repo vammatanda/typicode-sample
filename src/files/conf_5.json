@@ -1,7 +1,7 @@
 {
 	"name": "Asset Name",
 	"description": "Lorem ipsum...",
-    "image": "https://github.com/vammatanda/typicode-sample/blob/main/src/files/minions.png",
+    "image": "https://raw.githubusercontent.com/vammatanda/typicode-sample/main/src/files/minions.png",
 	"properties": {
 		"simple_property": "example value",
 		"rich_property": {
