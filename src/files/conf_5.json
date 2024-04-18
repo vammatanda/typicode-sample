@@ -1,6 +1,6 @@
 {
-	"name": "Asset Name",
-	"description": "Lorem ipsum...",
+	"name": "Consent",
+	"description": "Demo Consent token",
     "image": "https://raw.githubusercontent.com/vammatanda/typicode-sample/main/src/files/minions.png",
 	"properties": {
 		"consentName": "Jane Doe",
